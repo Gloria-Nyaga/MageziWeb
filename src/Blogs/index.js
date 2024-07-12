@@ -1,8 +1,8 @@
 import './index.css'
 import book from "../Assets/Screenshot from 2024-07-09 11-09-18 1.png";
 import { Link } from "react-router-dom";
-import uber from '../Assets/Group 5 .png';
-import magezi from '../Assets/Group 1 .png'
+import uber from "../Assets/Group 5 .png"
+import magezi from "../Assets/Group 1 .png"
 
 const Blogs = () => {
   return (

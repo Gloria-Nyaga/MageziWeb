@@ -22,7 +22,7 @@ const Landingpage = () =>{
                         <span className='highlight'> Blogs </span>
                     </p>
 
-                    <button>Get Started</button>
+                    <button id="btn">Get Started</button>
                 </div>
 
 
@@ -33,9 +33,6 @@ const Landingpage = () =>{
 
             </div>
             <div>
-                {/* <div id= "text">
-                    <p>Get to view and listen to our posts</p>
-                </div> */}
                  
                 <div id= "icons">
 
